@@ -8,6 +8,6 @@
 
 გიორგი აბულაძე - <a href="http://www.freecodecamp.com/gabuladze">freecodecamp.com/gabuladze</a>
 
-რობერტ ოგანიანი - <href="https://www.freecodecamp.com/rob777">freecodecamp.com/rob777</a>
+რობერტ ოგანიანი - <a href="https://www.freecodecamp.com/rob777">freecodecamp.com/rob777</a>
 
-Arshile Gogen - <href="https://www.freecodecamp.com/rob777">freecodecamp.com/arshileg</a>
+Arshile Gogen - <a href="https://www.freecodecamp.com/rob777">freecodecamp.com/arshileg</a>

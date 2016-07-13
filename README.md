@@ -13,3 +13,5 @@
 Arshile Gogen - <a href="https://www.freecodecamp.com/arshileg">freecodecamp.com/arshileg</a>
 
 გიორგი სირაძე - <a href="https://www.freecodecamp.com/giola94">freecodecamp.com/giola94</a>
+
+Adria Alvares - <a href="https://www.freecodecamp.com/amareyah">https://www.freecodecamp.com/amareyah</a>
